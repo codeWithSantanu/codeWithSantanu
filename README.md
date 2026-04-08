@@ -32,17 +32,71 @@
 
 <img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 **B.Tech IT (CSE) @ Haldia Institute of Technology**  
-🚀 **Full-Stack Developer | AI/ML Engineer | Future SDE**
+🎓 **B.Tech IT (CSE) @ Haldia Institute of Technology**
+🎓 **Diploma in CST @ RRK Government Polytechnic**
+
+🚀 **Full-Stack Developer | AI/ML Enthusiast | Future SDE**
+💡 Passionate about building scalable, user-centric, and real-world impactful solutions
+
+---
 
 💼 **Experience**
-- 🔧 Junior Engineer @ CEAT Ltd.
-- 📊 Sales Executive @ Tiens Group
 
-💡 **Focus**
-- Scalable Web Apps 🌐  
-- AI/ML Systems 🤖  
-- Clean Architecture 🏗️  
+* 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)
+* 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
+* 🌐 Web Development Intern @ IIT Bombay Techfest
+
+---
+
+🛠️ **Tech Stack**
+
+* 💻 Languages: C, C++, Java, Python, JavaScript
+* 🌐 Web: HTML, CSS, React, Node.js, Express
+* 🗄️ Databases: MySQL, MongoDB, Oracle
+* ⚙️ Tools: Git, GitHub, Docker, Postman
+* ☁️ Cloud: AWS, Firebase, Vercel
+
+---
+
+💡 **Focus Areas**
+
+* 🌐 Scalable Web Applications
+* 🤖 AI/ML & Data-Driven Systems
+* 🏗️ Clean Architecture & System Design
+* 📊 Data Visualization & Analytics
+
+---
+
+🚀 **Projects**
+
+* 🌦️ Weather Dashboard (API + React + Express)
+* 📊 Blog Analytics Dashboard (Django + React)
+* 🤖 IPL Auction Predictor (ML Model + Full Stack)
+
+---
+
+📈 **Achievements & Presence**
+
+* 🏆 IIT Bombay Web Dev Internship
+* 🏆 IBM Granite AI + AI Odyssey
+* 🏆 RTCI 2025
+* 🔗 6K+ LinkedIn Network
+* 📱 300K+ Instagram Reach
+
+---
+
+🌱 **Extra Edge**
+
+* 🤝 Active Volunteer (Environment, Health, Education Drives)
+* 🎯 Strong Problem Solving & DSA Foundation
+* 📢 Tech Content Creator & Community Builder
+
+---
+
+📌 **Goal**
+
+* 🚀 To become a top-tier Software Engineer
+* 🌍 Open to Internships & Global Opportunities
 
 ---
 
