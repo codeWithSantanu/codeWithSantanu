@@ -67,8 +67,6 @@
 <!-- LEETCODE -->
 <img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest"/>
 
-
-
 ---
 
 # 🧠 Core Skills
@@ -79,22 +77,6 @@
 <img src="https://img.shields.io/badge/Microservices-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST%20API-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT/Auth-orange?style=for-the-badge"/>
-</p>
-
----
-
-# 🏗️ Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/codeWithSantanu/IPL-Auction-Price-Prediction-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/codeWithSantanu/AI-Demand-Forecasting-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight"/>
-</a>
-
 </p>
 
 ---
