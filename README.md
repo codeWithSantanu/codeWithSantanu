@@ -43,7 +43,7 @@
 <!-- 🔥 GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-#⚡ Tech Arsenal
+# ⚡ Tech Arsenal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go,rust,kotlin,scala&perline=10"/>
@@ -51,7 +51,8 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&perline=10"/>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,git,linux&perline=10"/>
 </p>
-⚡ TECH STACK
+
+# ⚡ TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,aws,docker,kubernetes,git,linux,figma&perline=9"/>
