@@ -34,6 +34,7 @@
 <a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
 <a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge"/></a>
 </p>
+
 ---
 
 # 💫 About Me
