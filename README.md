@@ -20,6 +20,14 @@
 <img src="https://img.shields.io/badge/AI%20Chatbot-Active-00F7FF?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge"/>
 
+# 🤖 AI POWERED DEV
+
+<p align="center">
+<img src="https://img.shields.io/badge/Built%20With-AI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Enabled-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart%20Systems-Active-success?style=for-the-badge"/>
+</p>
+
 ---
 
 # 💫 About Me
@@ -182,13 +190,6 @@
 
 ---
 
-# 🤖 AI POWERED DEV
-
-<p align="center">
-<img src="https://img.shields.io/badge/Built%20With-AI-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-Enabled-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Smart%20Systems-Active-success?style=for-the-badge"/>
-</p>
 
 ---
 
