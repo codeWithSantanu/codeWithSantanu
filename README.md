@@ -1,109 +1,27 @@
-Here’s your **fully upgraded, professional + impactful GitHub/Portfolio “About Me” section** with your **CEAT + Tiens experience properly integrated** and everything explained clearly 👇
+more details and explained - # 💫 About Me:
+💻 B.Tech IT Student | Aspiring Software Developer  <br>🚀 Passionate about Full-Stack Development & Problem Solving  <br>🌱 Currently learning DSA, Web Development & AI  <br>📌 Building real-world projects with React, Python & APIs  <br>📫 Open to internships & collaboration
 
----
-
-# 💫 About Me:
-
-💻 **B.Tech IT Student (Pre-Final Year)** at Haldia Institute of Technology
-🚀 **Aspiring Software Developer | Full-Stack Enthusiast | Problem Solver**
-
-🔧 **Former Junior Engineer (Trainee) at CEAT Ltd., Chennai** – gained hands-on industry experience in real-time systems, teamwork, and problem-solving in a production environment
-
-📊 **Former Intern at Tiens Group** – developed communication, sales strategy, and professional networking skills
-
-🌱 Currently learning **Data Structures & Algorithms, Web Development, and Artificial Intelligence**
-💡 Passionate about building **real-world, scalable applications** using modern technologies
-
-📌 Working on projects involving **React, Python, REST APIs, and Data Visualization**
-🤝 Open to **Internships, Freelance Projects, and Tech Collaborations**
-
-📫 **Let’s connect and build something impactful!**
-
----
 
 ## 🌐 Socials:
-
-*(Keep your same links — they are already good 👍)*
-
----
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaaanxr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaaanxr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Shaanxr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shaaanxr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santanudas.official.mail@gmail.com) 
 
 # 💻 Tech Stack:
-
-*(Your current badges are good, but here’s a cleaner categorized version 👇)*
-
-**👨‍💻 Languages:**
-C • C++ • Java • JavaScript • Python
-
-**🌐 Web Development:**
-HTML • CSS • React • REST APIs
-
-**🗄️ Databases:**
-MySQL • MongoDB • Oracle
-
-**☁️ Cloud & Tools:**
-AWS • Google Cloud • Git • GitHub • Linux • Windows
-
-**🎨 Design & UI/UX:**
-Figma • Canva • Photoshop
-
----
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codeWithSantanu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codeWithSantanu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithSantanu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-*(Keep as it is — already perfect)*
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codeWithSantanu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🏆 Achievements & Highlights:
-
-✨ Built multiple **real-world projects** (Weather Dashboard, Blog Analytics, ML models)
-✨ Active participant in **hackathons, workshops & tech events (IIT Bombay, RTCI, AI Odyssey)**
-✨ Strong **LinkedIn presence (4K+ followers)** with consistent engagement
-✨ Experience in **team collaboration, leadership & community volunteering**
-
----
-
-# 🎯 Career Objective:
-
-To leverage my skills in **software development, problem-solving, and system design** to build impactful applications and contribute to innovative tech solutions in a growth-driven organization.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codeWithSantanu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=codeWithSantanu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🔥 What Makes Me Different:
-
-✔ Combination of **industry experience (CEAT) + tech skills**
-✔ Strong **practical project experience** (not just theory)
-✔ Active **tech community involvement & personal branding**
-✔ Continuous learner with **growth mindset**
-
----
-
-## ✍️ Random Dev Quote
-
-*(Keep as it is)*
-
----
-
-## 🔝 Top Contributed Repo
-
-*(Keep as it is)*
-
----
-
-# ⚡ FINAL RESULT (What Changed)
-
-* Fixed grammar & professionalism
-* Added **CEAT + Tiens experience properly**
-* Made it **recruiter-friendly + ATS-ready**
-* Added **impact, clarity, and structure**
-* Positioned you as **serious developer, not beginner**
-
----
-
-💬 If you want next level upgrade, I can:
-
-* Turn this into a **FAANG-level LinkedIn About section**
-* Create a **perfect resume (1-page + ATS optimized)**
-* Optimize your **GitHub README to stand out globally**
-
-Just tell me 👍
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
