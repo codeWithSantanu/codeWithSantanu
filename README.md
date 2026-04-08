@@ -19,8 +19,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/AI%20Chatbot-Active-00F7FF?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
-</p>
 
 ---
 
