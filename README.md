@@ -140,20 +140,7 @@
 
 
 
-<!-- 🔥 3D ANIMATED BANNER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:8A2BE2,100:000000&height=350&section=header&text=Santanu%20Das&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
-</p>
 
-<!-- ⚡ ADVANCED TYPING ANIMATION -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+System+Design+Explorer;🔥+Future+FAANG+Engineer;💡+Building+Impactful+Tech"/>
-</p>
-
-
----
-
-# 🌐 LIVE PORTFOLIO PREVIEW
 
 <p align="center">
 <a href="https://your-portfolio-link.com">
@@ -163,23 +150,6 @@
 
 ---
 
-# 💫 About Me
-
-<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🎓 B.Tech IT (CSE) @ Haldia Institute of Technology  
-🚀 Full-Stack Developer | AI/ML Engineer  
-
-💼 Experience:
-- 🔧 CEAT Ltd. (Engineer)
-- 📊 Tiens Group (Sales)
-
-💡 Focus:
-- Scalable Systems ⚡  
-- AI Products 🤖  
-- Clean Code 🧠  
-
----
 
 <!-- 🌊 DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
