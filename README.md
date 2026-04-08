@@ -138,10 +138,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=120&section=footer"/>
 </p>
 
-
-
-
-
 ---
 
 # 🏗️ INTERACTIVE PROJECT ZONE
@@ -172,9 +168,6 @@
 <img src="https://streak-stats.demolab.com?user=codeWithSantanu&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithSantanu&theme=tokyo-night"/>
-</p>
 
 ---
 
