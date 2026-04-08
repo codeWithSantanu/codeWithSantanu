@@ -92,11 +92,17 @@
 # 🏆 Achievements
 
 🏅 Web Development Intern @ IIT Bombay Techfest
+
 🏅 IBM Granite AI Workshop Certified
+
 🏅 AI Odyssey Participant & Learner
+
 🏅 RTCI 2025 Conference Participant
+
 🏅 Industrial Internship @ ARDENT Computech
+
 🏅 Wadhwani Foundation Skills Certified
+
 🏅 GFG Gate Set Go Program Certified
 
 🏅 Ex-Junior Engineer @ CEAT Ltd (1 Year Experience)
