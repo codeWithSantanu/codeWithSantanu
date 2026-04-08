@@ -133,9 +133,7 @@
 
 ---
 
-# 🎯 Mission
 
-> 🚀 Build **scalable, AI-powered systems** that impact millions.
 
 ---
 
@@ -187,6 +185,10 @@
 </p>
 
 ---
+
+# 🎯 Mission
+
+> 🚀 Build **scalable, AI-powered systems** that impact millions.
 
 # 🎯 FINAL MESSAGE
 
