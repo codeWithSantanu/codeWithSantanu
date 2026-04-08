@@ -1,75 +1,84 @@
-<!-- 🧬 CUSTOM SVG IDENTITY (ANIMATED) -->
+<!-- 🧬 HERO IDENTITY (SVG + 3D BANNER COMBO) -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=45&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Santanu+Das;Full-Stack+Engineer;AI+Builder;Future+FAANG+SDE" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:8A2BE2,100:000000&height=320&section=header&text=Santanu%20Das&fontSize=55&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<!-- 🌊 PREMIUM HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:8A2BE2,100:000000&height=320&section=header&text=BUILD.%20SCALE.%20INNOVATE.&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://api.dicebear.com/7.x/bottts/svg?seed=Santanu&backgroundColor=0f2027,8A2BE2,00F7FF" width="140"/>
+</p>
+
+<!-- ⚡ MAIN TYPING -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+System+Design+Thinker;🔥+Future+FAANG+Engineer"/>
 </p>
 
 ---
 
 # 🎯 RECRUITER HOOK
 
-> 🚀 Pre-Final Year B.Tech IT Student | Full-Stack Developer | AI/ML Engineer  
-> 💡 I build scalable, real-world systems using modern tech (React, Node, ML)  
-> 📈 Strong in DSA, System Design & Problem Solving  
-> 🌍 Open to SDE / Full-Stack / AI roles (Global)
+> 🚀 Pre-Final Year B.Tech IT | Full-Stack + AI Developer  
+> 💡 Building scalable real-world products  
+> 📈 Strong in DSA, APIs, System Design  
+> 🌍 Open to SDE / AI / Full-Stack roles  
 
 ---
 
-# 🧠 LIVE GITHUB API ZONE (REAL-TIME)
+# 🎮 STATUS PANEL
 
 <p align="center">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-MODE%20ACTIVE-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK-success?style=for-the-badge"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeWithSantanu&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithSantanu&theme=tokyonight"/>
+# 🧠 LIVE GITHUB SYSTEM
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codeWithSantanu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://streak-stats.demolab.com?user=codeWithSantanu&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWithSantanu&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 💼 AUTO PROJECT SHOWCASE (DYNAMIC)
+# 💼 AUTO PROJECT SYSTEM
 
 <p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=codeWithSantanu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
+<img src="https://github-contributor-stats.vercel.app/api?username=codeWithSantanu&limit=5&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🌐 PERSONAL DOMAIN
+# 🏗️ FEATURED PROJECTS
 
 <p align="center">
-<a href="https://yourdomain.com">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Live-00F7FF?style=for-the-badge"/>
+
+<a href="https://github.com/codeWithSantanu/IPL-Auction-Price-Prediction-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight"/>
 </a>
-</p>
 
-<p align="center">
-<img src="https://github.com/saadeghi/files/blob/main/dark-mode.gif?raw=true" width="850"/>
-</p>
+<a href="https://github.com/codeWithSantanu/AI-Demand-Forecasting-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight"/>
+</a>
 
----
-
-# ⚡ TECH ECOSYSTEM
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,mongodb,postgres,docker,kubernetes,aws,linux&perline=7"/>
 </p>
 
 ---
 
-# 📈 CODING POWER
+# ⚡ TECH STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,linux&perline=8"/>
+</p>
+
+---
+
+# 📈 CODING STATS
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest"/>
@@ -78,12 +87,16 @@
 
 ---
 
-# 🧬 DEV IDENTITY SYSTEM
+# 🌐 PORTFOLIO
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20ENGINEER-ACTIVE-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-LEARNING-success?style=for-the-badge"/>
+<a href="https://yourdomain.com">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Live-00F7FF?style=for-the-badge"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://github.com/saadeghi/files/blob/main/dark-mode.gif?raw=true" width="800"/>
 </p>
 
 ---
@@ -96,25 +109,15 @@
 
 ---
 
-# 🌐 CONNECT
+# 🧬 TERMINAL IDENTITY (UNIQUE)
 
-<p align="center">
-<a href="https://linkedin.com/in/santanu-das-bb3a832b8"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-<a href="mailto:santanudas.official.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
-<a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
-</p>
+```bash
+> boot santanu.dev
+> loading AI modules ███████████ 100%
+> status: ONLINE 🚀
 
----
-
-# 💬 FINAL SYSTEM MESSAGE
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=From+India+to+Global+🌍;Building+Scalable+Systems+🚀;Engineering+the+Future+💡"/>
-</p>
-
----
-
-<!-- 🌊 FOOTER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=120&section=footer"/>
-</p>
+while(true){
+  learn();
+  build();
+  scale();
+}
