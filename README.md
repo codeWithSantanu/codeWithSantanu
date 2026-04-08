@@ -46,9 +46,6 @@
 
 ---
 
-<!-- 🔥 GRADIENT DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
-
 # ⚡ Tech Arsenal
 
 <p align="center">
