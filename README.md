@@ -89,13 +89,31 @@
 
 ---
 
+Here are **more powerful, resume-ready achievement points** in the same style, based on your profile  👇
+
+---
+
 # 🏆 Achievements
 
-🏅 IIT Bombay Web Dev Internship  
-🏅 IBM Granite + AI Odyssey  
-🏅 RTCI 2025  
-🏅 6K+ LinkedIn Network  
-🏅 6K+ Instagram Network
+🏅 Web Development Intern @ IIT Bombay Techfest
+🏅 IBM Granite AI Workshop Certified
+🏅 AI Odyssey Participant & Learner
+🏅 RTCI 2025 Conference Participant
+🏅 Ex-Junior Engineer @ CEAT Ltd (1 Year Experience)
+🏅 Industrial Internship @ ARDENT Computech
+🏅 Wadhwani Foundation Skills Certified
+🏅 GFG Gate Set Go Program Certified
+🏅 Full-Stack Developer (React + Node + APIs Projects)
+🏅 Built Real-world Dashboards (Weather + Blog Analytics)
+🏅 Strong DSA + Problem Solving Foundation
+🏅 6K+ LinkedIn Professional Network
+🏅 300K+ Instagram Reach & Content Engagement
+🏅 Active Tech Content Creator & Community Contributor
+🏅 Multi-Skilled Developer (C, C++, Java, Python, JS)
+🏅 Cloud & DevOps Exposure (AWS, Docker, CI/CD)
+🏅 UI/UX Designer (Figma, Canva, Photoshop)
+🏅 Volunteer in 10+ Social & Environmental Initiatives
+🏅 Technical Event & Hackathon Participant
 
 ---
 
