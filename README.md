@@ -1,79 +1,57 @@
-<!-- 🧬 HERO IDENTITY (SVG + 3D BANNER COMBO) -->
+<!-- 🔥 3D ANIMATED BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:8A2BE2,100:000000&height=320&section=header&text=Santanu%20Das&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:8A2BE2,100:000000&height=350&section=header&text=Santanu%20Das&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 </p>
 
+<!-- ⚡ ADVANCED TYPING ANIMATION -->
 <p align="center">
-<img src="https://api.dicebear.com/7.x/bottts/svg?seed=Santanu&backgroundColor=0f2027,8A2BE2,00F7FF" width="140"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+System+Design+Explorer;🔥+Future+FAANG+Engineer;💡+Building+Impactful+Tech"/>
 </p>
 
-<!-- ⚡ MAIN TYPING -->
+<!-- 🤖 AI CHATBOT BADGE -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+System+Design+Thinker;🔥+Future+FAANG+Engineer"/>
-</p>
-
----
-
-# 🎯 RECRUITER HOOK
-
-> 🚀 Pre-Final Year B.Tech IT | Full-Stack + AI Developer  
-> 💡 Building scalable real-world products  
-> 📈 Strong in DSA, APIs, System Design  
-> 🌍 Open to SDE / AI / Full-Stack roles  
-
----
-
-# 🎮 STATUS PANEL
-
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-MODE%20ACTIVE-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-WORK-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Chatbot-Active-00F7FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 LIVE GITHUB SYSTEM
+# 🌐 LIVE PORTFOLIO PREVIEW
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codeWithSantanu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img src="https://streak-stats.demolab.com?user=codeWithSantanu&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWithSantanu&theme=tokyonight"/>
-</p>
-
----
-
-# 💼 AUTO PROJECT SYSTEM
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=codeWithSantanu&limit=5&theme=tokyonight"/>
-</p>
-
----
-
-# 🏗️ FEATURED PROJECTS
-
-<p align="center">
-
-<a href="https://github.com/codeWithSantanu/IPL-Auction-Price-Prediction-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight"/>
+<a href="https://your-portfolio-link.com">
+<img src="https://github.com/saadeghi/files/blob/main/dark-mode.gif?raw=true" width="800"/>
 </a>
-
-<a href="https://github.com/codeWithSantanu/AI-Demand-Forecasting-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight"/>
-</a>
-
 </p>
 
 ---
+
+# 💫 About Me
+
+<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 B.Tech IT (CSE) @ Haldia Institute of Technology  
+🚀 Full-Stack Developer | AI/ML Engineer  
+
+💼 Experience:
+- 🔧 CEAT Ltd. (Engineer)
+- 📊 Tiens Group (Sales)
+
+💡 Focus:
+- Scalable Systems ⚡  
+- AI Products 🤖  
+- Clean Code 🧠  
+
+---
+
+<!-- 🌊 DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 # ⚡ TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,aws,docker,kubernetes,git,linux,figma&perline=9"/>
 </p>
 
 ---
@@ -81,27 +59,52 @@
 # 📈 CODING STATS
 
 <p align="center">
+
+<!-- LEETCODE -->
 <img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest"/>
+
+<!-- CODEFORCES -->
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=yourcodeforceshandle&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🌐 PORTFOLIO
+# 🏗️ INTERACTIVE PROJECT ZONE
 
 <p align="center">
-<a href="https://yourdomain.com">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Live-00F7FF?style=for-the-badge"/>
+
+<a href="https://github.com/codeWithSantanu/IPL-Auction-Price-Prediction-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight&hide_border=true"/>
 </a>
+
+<a href="https://github.com/codeWithSantanu/AI-Demand-Forecasting-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
 
+<!-- 💡 HOVER EFFECT SIMULATION -->
 <p align="center">
-<img src="https://github.com/saadeghi/files/blob/main/dark-mode.gif?raw=true" width="800"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION ANIMATION
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codeWithSantanu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=codeWithSantanu&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithSantanu&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/codeWithSantanu/codeWithSantanu/output/github-contribution-grid-snake.svg"/>
@@ -109,15 +112,44 @@
 
 ---
 
-# 🧬 TERMINAL IDENTITY (UNIQUE)
+# 🤖 AI POWERED DEV
 
-```bash
-> boot santanu.dev
-> loading AI modules ███████████ 100%
-> status: ONLINE 🚀
+<p align="center">
+<img src="https://img.shields.io/badge/Built%20With-AI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Enabled-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart%20Systems-Active-success?style=for-the-badge"/>
+</p>
 
-while(true){
-  learn();
-  build();
-  scale();
-}
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+<a href="https://linkedin.com/in/santanu-das-bb3a832b8"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+<a href="mailto:santanudas.official.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
+<a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
+<a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge"/></a>
+</p>
+
+---
+
+# 💬 DEV QUOTE
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 FINAL MESSAGE
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Code.+Build.+Scale.+Repeat.;From+India+to+Global+Tech+🚀"/>
+</p>
+
+---
+
+<!-- 🌊 FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=120&section=footer"/>
+</p>
