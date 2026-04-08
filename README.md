@@ -26,6 +26,14 @@
 <img src="https://img.shields.io/badge/Smart%20Systems-Active-success?style=for-the-badge"/>
 </p>
 
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/santanu-das-bb3a832b8"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+<a href="mailto:santanudas.official.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
+<a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
+<a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge"/></a>
+</p>
 ---
 
 # 💫 About Me
@@ -94,17 +102,6 @@
 <img src="https://img.shields.io/badge/Microservices-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST%20API-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT/Auth-orange?style=for-the-badge"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/santanu-das-bb3a832b8"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-<a href="mailto:santanudas.official.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
-<a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
-<a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge"/></a>
 </p>
 
 ---
