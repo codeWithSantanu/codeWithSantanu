@@ -1,27 +1,190 @@
-more details and explained - # 💫 About Me:
-💻 B.Tech IT Student | Aspiring Software Developer  <br>🚀 Passionate about Full-Stack Development & Problem Solving  <br>🌱 Currently learning DSA, Web Development & AI  <br>📌 Building real-world projects with React, Python & APIs  <br>📫 Open to internships & collaboration
+---
 
+# 🚀 Santanu Das | Full-Stack Developer
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaaanxr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaaanxr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Shaanxr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shaaanxr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santanudas.official.mail@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeWithSantanu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codeWithSantanu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithSantanu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codeWithSantanu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codeWithSantanu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Real-World+Projects" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codeWithSantanu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+💻 **Pre-Final Year B.Tech IT Student**
+🚀 **Aspiring Software Developer | Full-Stack Builder | AI Explorer**
+
+---
+
+🔧 **Former Junior Engineer (Trainee) @ CEAT Ltd., Chennai**
+→ Worked in real-world industrial systems
+→ Developed **problem-solving under pressure & system-level thinking**
+→ Learned **team collaboration in production environments**
+
+📊 **Former Intern @ Tiens Group**
+→ Built strong **communication & business mindset**
+→ Gained experience in **networking, strategy & client interaction**
+
+---
+
+💡 **What I Do**
+
+* Build **scalable full-stack applications**
+* Integrate **AI/ML into real-world systems**
+* Solve problems using **DSA & system design thinking**
+
+---
+
+🌱 **Currently Learning**
+
+* Data Structures & Algorithms
+* Advanced Full-Stack Development
+* AI/ML (LSTM, Prediction Systems)
+
+---
+
+📌 **Current Focus**
+
+```txt
+⚡ Full-Stack Development (React + Backend)
+🧠 Problem Solving (DSA)
+🤖 AI-Powered Applications
+📊 Data Analytics & Visualization
+```
+
+---
+
+# 🏗️ Featured Projects
+
+🚀 **IPL Auction Price Prediction System**
+→ ML model + React + Flask
+→ Predicts player price using performance data
+
+📊 **AI Demand Forecasting Dashboard**
+→ LSTM + Data Visualization
+→ Business-level forecasting system
+
+🌦️ **Weather Dashboard**
+→ API-based real-time data app
+
+📝 **Blog Analytics Platform**
+→ Full-stack analytics system
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://discord.gg/shaaanxr"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://reddit.com/user/Shaanxr"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:santanudas.official.mail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux" />
+</p>
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeWithSantanu&theme=tokyonight&show_icons=true&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=codeWithSantanu&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithSantanu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Built multiple **real-world production-level projects**
+🏅 Participated in **IIT Bombay Techfest, AI Odyssey, RTCI**
+🏅 Strong **LinkedIn presence (4K+ followers)**
+🏅 Active in **tech community & volunteering**
+
+---
+
+# 🎯 Career Goal
+
+> To become a **world-class Software Engineer** building scalable, intelligent, and impactful systems.
+
+---
+
+# 🔥 What Makes Me Different
+
+✔ Industry Experience (CEAT) + Tech Skills
+✔ Builder Mindset (I ship projects, not just learn)
+✔ Strong Personal Branding
+✔ Continuous Learning & Execution
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+I don't just write code...
+I build systems that solve real-world problems 🚀
+```
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=codeWithSantanu&icon=5&color=12" />
+</p>
+
+---
+
+# ✍️ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 🔝 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=codeWithSantanu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+---
