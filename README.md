@@ -129,9 +129,6 @@
 
 <p align="center">
 
-
-
-<a href="https://github.com/codeWithSantanu/AI-Demand-Forecasting-Dashboard">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight&hide_border=true"/>
 </a>
 
