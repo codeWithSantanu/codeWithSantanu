@@ -142,23 +142,6 @@
 
 
 
-<p align="center">
-<a href="https://your-portfolio-link.com">
-<img src="https://github.com/saadeghi/files/blob/main/dark-mode.gif?raw=true" width="800"/>
-</a>
-</p>
-
----
-
-
-<!-- 🌊 DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-
----
-
-
-
 ---
 
 # 🏗️ INTERACTIVE PROJECT ZONE
