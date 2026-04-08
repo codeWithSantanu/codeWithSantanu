@@ -78,15 +78,6 @@
 
 ---
 
-# 🏆 Achievements
-
-🏅 IIT Bombay Web Dev Internship  
-🏅 IBM Granite + AI Odyssey  
-🏅 RTCI 2025  
-🏅 4K+ LinkedIn Network  
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -95,6 +86,15 @@
 <a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
 <a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge"/></a>
 </p>
+
+---
+
+# 🏆 Achievements
+
+🏅 IIT Bombay Web Dev Internship  
+🏅 IBM Granite + AI Odyssey  
+🏅 RTCI 2025  
+🏅 4K+ LinkedIn Network  
 
 ---
 
