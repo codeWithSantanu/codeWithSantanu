@@ -43,7 +43,7 @@
 <!-- 🔥 GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-⚡ Tech Arsenal
+#⚡ Tech Arsenal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go,rust,kotlin,scala&perline=10"/>
