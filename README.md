@@ -67,13 +67,6 @@
 
 ---
 
-📌 **Goal**
-
-* 🚀 To become a top-tier Software Engineer
-* 🌍 Open to Internships & Global Opportunities
-
----
-
 # ⚡ Tech Arsenal
 
 <p align="center">
