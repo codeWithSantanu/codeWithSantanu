@@ -106,15 +106,21 @@
 🏅 GFG Gate Set Go Program Certified
 
 🏅 Ex-Junior Engineer @ CEAT Ltd (1 Year Experience)
+
 🏅 Ex-Junior Intern @ TIENS Group (2 Year Experience)
 
 🏅 6K+ LinkedIn Professional Network
+
 🏅 300K+ Instagram Reach & 6k+ Network & Content Engagement
+
 🏅 Volunteer in 50+ Social & Environmental Initiatives
+
 🏅 Technical Event & Hackathon Participant
 
 🏅 Multi-Skilled Developer (C, C++, Java, Python, JS)
+
 🏅 Cloud & DevOps Exposure (AWS, Docker, CI/CD)
+
 🏅 UI/UX Designer (Figma, Canva, Photoshop)
 
 ---
