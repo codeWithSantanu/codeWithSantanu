@@ -60,6 +60,19 @@
 
 ---
 
+# 📈 CODING STATS
+
+<p align="center">
+
+<!-- LEETCODE -->
+<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest"/>
+
+<!-- CODEFORCES -->
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=yourcodeforceshandle&theme=tokyonight"/>
+
+</p>
+---
+
 # 🧠 Core Skills
 
 <p align="center">
@@ -206,17 +219,7 @@
 
 ---
 
-# 📈 CODING STATS
 
-<p align="center">
-
-<!-- LEETCODE -->
-<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest"/>
-
-<!-- CODEFORCES -->
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=yourcodeforceshandle&theme=tokyonight"/>
-
-</p>
 
 ---
 
