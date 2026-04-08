@@ -94,7 +94,8 @@
 🏅 IIT Bombay Web Dev Internship  
 🏅 IBM Granite + AI Odyssey  
 🏅 RTCI 2025  
-🏅 4K+ LinkedIn Network  
+🏅 6K+ LinkedIn Network  
+🏅 6K+ Instagram Network
 
 ---
 
