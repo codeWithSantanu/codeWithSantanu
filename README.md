@@ -88,10 +88,6 @@
 <img src="https://streak-stats.demolab.com?user=codeWithSantanu&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithSantanu&theme=tokyo-night"/>
-</p>
-
 ---
 
 # 🐍 Contribution Snake Animation
