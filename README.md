@@ -91,25 +91,25 @@
 
 # 🏆 Achievements
 
-<a> 🏅 Web Development Intern @ IIT Bombay Techfest </a>
+🏅 Web Development Intern @ IIT Bombay Techfest
 🏅 IBM Granite AI Workshop Certified
 🏅 AI Odyssey Participant & Learner
 🏅 RTCI 2025 Conference Participant
-🏅 Ex-Junior Engineer @ CEAT Ltd (1 Year Experience)
 🏅 Industrial Internship @ ARDENT Computech
 🏅 Wadhwani Foundation Skills Certified
 🏅 GFG Gate Set Go Program Certified
-🏅 Full-Stack Developer (React + Node + APIs Projects)
-🏅 Built Real-world Dashboards (Weather + Blog Analytics)
-🏅 Strong DSA + Problem Solving Foundation
+
+🏅 Ex-Junior Engineer @ CEAT Ltd (1 Year Experience)
+🏅 Ex-Junior Intern @ TIENS Group (2 Year Experience)
+
 🏅 6K+ LinkedIn Professional Network
-🏅 300K+ Instagram Reach & Content Engagement
-🏅 Active Tech Content Creator & Community Contributor
+🏅 300K+ Instagram Reach & 6k+ Network & Content Engagement
+🏅 Volunteer in 50+ Social & Environmental Initiatives
+🏅 Technical Event & Hackathon Participant
+
 🏅 Multi-Skilled Developer (C, C++, Java, Python, JS)
 🏅 Cloud & DevOps Exposure (AWS, Docker, CI/CD)
 🏅 UI/UX Designer (Figma, Canva, Photoshop)
-🏅 Volunteer in 10+ Social & Environmental Initiatives
-🏅 Technical Event & Hackathon Participant
 
 ---
 
