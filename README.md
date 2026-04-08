@@ -129,8 +129,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight&hide_border=true"/>
-</a>
 
 </p>
 
