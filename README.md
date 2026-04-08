@@ -58,23 +58,6 @@
 
 ---
 
-💡 **Focus Areas**
-
-* 🌐 Scalable Web Applications
-* 🤖 AI/ML & Data-Driven Systems
-* 🏗️ Clean Architecture & System Design
-* 📊 Data Visualization & Analytics
-
----
-
-🚀 **Projects**
-
-* 🌦️ Weather Dashboard (API + React + Express)
-* 📊 Blog Analytics Dashboard (Django + React)
-* 🤖 IPL Auction Predictor (ML Model + Full Stack)
-
----
-
 📈 **Achievements & Presence**
 
 * 🏆 IIT Bombay Web Dev Internship
@@ -82,14 +65,6 @@
 * 🏆 RTCI 2025
 * 🔗 6K+ LinkedIn Network
 * 📱 300K+ Instagram Reach
-
----
-
-🌱 **Extra Edge**
-
-* 🤝 Active Volunteer (Environment, Health, Education Drives)
-* 🎯 Strong Problem Solving & DSA Foundation
-* 📢 Tech Content Creator & Community Builder
 
 ---
 
