@@ -1,110 +1,103 @@
-<!-- 🔥 3D ANIMATED BANNER -->
+<!-- 🧬 AI GENERATED AVATAR + 3D BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:8A2BE2,100:000000&height=350&section=header&text=Santanu%20Das&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:8A2BE2,100:000000&height=350&section=header&text=Santanu%20Das&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<!-- ⚡ ADVANCED TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+System+Design+Explorer;🔥+Future+FAANG+Engineer;💡+Building+Impactful+Tech"/>
+<img src="https://api.dicebear.com/7.x/bottts/svg?seed=Santanu&backgroundColor=0f2027,8A2BE2,00F7FF" width="160"/>
 </p>
 
-<!-- 🤖 AI CHATBOT BADGE -->
+<!-- ⚡ ULTRA TYPING -->
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20Chatbot-Active-00F7FF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+System+Design+Thinker;🔥+Building+Future+Tech;💡+Code.+Create.+Dominate."/>
 </p>
 
 ---
 
-# 🌐 LIVE PORTFOLIO PREVIEW
+# 🧊 GLASSMORPHISM PROFILE CARD
 
 <p align="center">
-<a href="https://your-portfolio-link.com">
-<img src="https://github.com/saadeghi/files/blob/main/dark-mode.gif?raw=true" width="800"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=codeWithSantanu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2"/>
 </p>
 
 ---
 
-# 💫 About Me
-
-<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🎓 B.Tech IT (CSE) @ Haldia Institute of Technology  
-🚀 Full-Stack Developer | AI/ML Engineer  
-
-💼 Experience:
-- 🔧 CEAT Ltd. (Engineer)
-- 📊 Tiens Group (Sales)
-
-💡 Focus:
-- Scalable Systems ⚡  
-- AI Products 🤖  
-- Clean Code 🧠  
-
----
-
-<!-- 🌊 DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-# ⚡ TECH STACK
+# 🎮 INTERACTIVE BADGES ZONE
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,aws,docker,kubernetes,git,linux,figma&perline=9"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/AI%20MODE-ACTIVE-8A2BE2?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/BUILDING-COOL%20STUFF-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SYSTEM%20DESIGN-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-# 📈 CODING STATS
+# 🌍 VISITOR GEO MAP (ILLUSION)
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWithSantanu&theme=tokyonight"/>
+</p>
 
-<!-- LEETCODE -->
-<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest"/>
-
-<!-- CODEFORCES -->
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=yourcodeforceshandle&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=codeWithSantanu&style=for-the-badge&color=00F7FF"/>
 </p>
 
 ---
 
-# 🏗️ INTERACTIVE PROJECT ZONE
+# 🧠 DYNAMIC GITHUB API ZONE
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeWithSantanu&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWithSantanu&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeWithSantanu&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeWithSantanu&theme=tokyonight"/>
+</p>
+
+---
+
+# ⚡ TECH MATRIX
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,cpp,mongodb,postgres,docker,kubernetes,aws,linux&perline=7"/>
+</p>
+
+---
+
+# 🏗️ PROJECT MATRIX (INTERACTIVE STYLE)
 
 <p align="center">
 
 <a href="https://github.com/codeWithSantanu/IPL-Auction-Price-Prediction-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/codeWithSantanu/AI-Demand-Forecasting-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight"/>
 </a>
 
 </p>
 
-<!-- 💡 HOVER EFFECT SIMULATION -->
+<!-- 🔥 HOVER FEEL -->
 <p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
 </p>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📈 COMPETITIVE CODING
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codeWithSantanu&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=codeWithSantanu&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithSantanu&theme=tokyo-night"/>
+<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=yourcodeforceshandle&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 SNAKE ANIMATION
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/codeWithSantanu/codeWithSantanu/output/github-contribution-grid-snake.svg"/>
@@ -112,39 +105,30 @@
 
 ---
 
-# 🤖 AI POWERED DEV
+# 🤖 AI POWER
 
 <p align="center">
-<img src="https://img.shields.io/badge/Built%20With-AI-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-Enabled-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Smart%20Systems-Active-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Driven-YES-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-ON-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Innovation-∞-success?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🌐 CONNECT
+# 🌐 CONNECT MATRIX
 
 <p align="center">
 <a href="https://linkedin.com/in/santanu-das-bb3a832b8"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
 <a href="mailto:santanudas.official.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
 <a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
-<a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge"/></a>
 </p>
 
 ---
 
-# 💬 DEV QUOTE
+# 💬 FINAL SIGNAL
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🎯 FINAL MESSAGE
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Code.+Build.+Scale.+Repeat.;From+India+to+Global+Tech+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=From+Local+to+Global+🚀;Engineering+the+Future+💡;Code.+Build.+Dominate."/>
 </p>
 
 ---
