@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codeWithSantanu&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
   <img src="https://img.shields.io/github/followers/codeWithSantanu?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/codeWithSantanu?style=for-the-badge&color=yellow"/>
 </p>
 
 ---
@@ -30,34 +31,59 @@
 ---
 
 🔧 **Former Junior Engineer (Trainee) @ CEAT Ltd., Chennai (1 Year)**  
+⚡ Worked in high-performance production environment  
 ⚡ Improved workflow efficiency & reduced downtime  
-⚡ Applied Lean Manufacturing & Root Cause Analysis  
+⚡ Applied **Lean Manufacturing + Root Cause Analysis**  
+⚡ Collaborated with cross-functional engineering teams  
 
 📊 **Former Sales Executive @ Tiens Group (2 Years)**  
-⚡ Strong communication, networking & leadership skills  
+⚡ Achieved sales targets through strategy & networking  
+⚡ Built strong **communication, negotiation & leadership skills**  
+⚡ Experience in CRM, lead generation & business growth  
 
 ---
 
 💡 **What I Do**
-- 🚀 Full-Stack Development  
-- 🤖 AI/ML Systems  
-- 🧠 DSA & Problem Solving  
+- 🚀 Build scalable **Full-Stack Applications**
+- 🤖 Develop **AI/ML & Data-driven Systems**
+- 🧠 Solve problems using **DSA & System Design**
+- 🌐 Create real-world impactful tech solutions  
+
+---
+
+🌱 **Currently Learning**
+- 📌 Advanced Data Structures & Algorithms  
+- ⚡ Full-Stack System Design (Next.js, APIs)  
+- 🤖 AI/ML (LSTM, Predictive Models, Analytics)  
 
 ---
 
 # ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,mongodb,mysql,aws,gcp,git,linux,figma" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go,php,kotlin,rust,scala" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,redux,tailwind,bootstrap" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis" /><br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,git,github,linux" /><br>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,xd" />
 </p>
+
+---
+
+# 🧠 Core Skills
+
+✔ DSA | OOP | DBMS | OS | Computer Networks  
+✔ REST APIs | MVC | Microservices  
+✔ Authentication | JWT | API Design  
+✔ Agile | SDLC | CI/CD  
 
 ---
 
 # 🏗️ Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forcasting-Dashboard&theme=tokyonight"/>
 </p>
 
 ---
@@ -78,7 +104,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codeWithSantanu/codeWithSantanu/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/codeWithSantanu/codeWithSantanu/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -86,8 +112,10 @@
 # 🏆 Achievements
 
 🏅 Web Dev Internship – Techfest IIT Bombay  
-🏅 AI Odyssey | IBM Granite  
-🏅 RTCI 2025  
+🏅 AI Odyssey | IBM Granite Workshop  
+🏅 RTCI 2025 Participation  
+🏅 Strong LinkedIn Presence (4K+ Followers)  
+🏅 Active Tech Community Contributor  
 
 ---
 
@@ -97,13 +125,22 @@
   <a href="https://linkedin.com/in/santanu-das-bb3a832b8"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="mailto:santanudas.official.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
   <a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
+  <a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge"/></a>
 </p>
+
+---
+
+# 🌍 Languages
+
+🇮🇳 Bengali (Native) | English | Hindi  
+🌐 Assamese | Gujarati | Marathi | Tamil  
+🔤 Morse Code | Sign Language  
 
 ---
 
 # 🎯 Vision
 
-> 🚀 Becoming a world-class Software Engineer building scalable systems.
+> 🚀 To become a **world-class Software Engineer** building scalable, AI-driven, impactful systems.
 
 ---
 
