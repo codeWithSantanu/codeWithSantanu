@@ -140,14 +140,6 @@
 
 ---
 
-# 💬 DEV QUOTE
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 # 🎯 Mission
 
 > 🚀 Build **scalable, AI-powered systems** that impact millions.
@@ -156,6 +148,14 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Code.+Build.+Scale.+Repeat.;From+India+to+Global+Tech+🚀"/>
+</p>
+
+---
+
+# 💬 DEV QUOTE
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
