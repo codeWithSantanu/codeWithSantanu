@@ -89,13 +89,9 @@
 
 ---
 
-Here are **more powerful, resume-ready achievement points** in the same style, based on your profile  👇
-
----
-
 # 🏆 Achievements
 
-🏅 Web Development Intern @ IIT Bombay Techfest
+<a> 🏅 Web Development Intern @ IIT Bombay Techfest </a>
 🏅 IBM Granite AI Workshop Certified
 🏅 AI Odyssey Participant & Learner
 🏅 RTCI 2025 Conference Participant
