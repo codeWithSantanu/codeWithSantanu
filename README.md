@@ -180,28 +180,6 @@
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/codeWithSantanu/codeWithSantanu/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-
----
-
-# 🌐 CONNECT
-
-<p align="center">
-<a href="https://linkedin.com/in/santanu-das-bb3a832b8"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-<a href="mailto:santanudas.official.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
-<a href="https://instagram.com/shaaanxr"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
-<a href="https://x.com/Shaaanxr"><img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge"/></a>
-</p>
-
----
-
 # 💬 DEV QUOTE
 
 <p align="center">
