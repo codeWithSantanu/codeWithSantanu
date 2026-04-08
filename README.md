@@ -127,15 +127,6 @@
 
 ---
 
-# 📈 CODING STATS
-
-<p align="center">
-
-<!-- LEETCODE -->
-<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest"/>
-
----
-
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
