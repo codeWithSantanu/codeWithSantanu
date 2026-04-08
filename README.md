@@ -15,6 +15,12 @@
 <img src="https://img.shields.io/github/stars/codeWithSantanu?style=for-the-badge&color=yellow"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
 </p>
+<!-- 🤖 AI CHATBOT BADGE -->
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Chatbot-Active-00F7FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -159,12 +165,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+System+Design+Explorer;🔥+Future+FAANG+Engineer;💡+Building+Impactful+Tech"/>
 </p>
 
-<!-- 🤖 AI CHATBOT BADGE -->
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Chatbot-Active-00F7FF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
-</p>
 
 ---
 
