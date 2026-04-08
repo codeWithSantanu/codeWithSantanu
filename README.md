@@ -129,9 +129,7 @@
 
 <p align="center">
 
-<a href="https://github.com/codeWithSantanu/IPL-Auction-Price-Prediction-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=IPL-Auction-Price-Prediction-System&theme=tokyonight&hide_border=true"/>
-</a>
+
 
 <a href="https://github.com/codeWithSantanu/AI-Demand-Forecasting-Dashboard">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithSantanu&repo=AI-Demand-Forecasting-Dashboard&theme=tokyonight&hide_border=true"/>
