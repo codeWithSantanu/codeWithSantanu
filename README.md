@@ -29,7 +29,7 @@
 
 # 💫 About Me
 
-<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 *B.Tech IT (CSE) @ Haldia Institute of Technology*
 🎓 *Diploma in CST @ RRK Government Polytechnic*
