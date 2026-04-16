@@ -48,6 +48,9 @@
 ---
 
 🛠️ **Tech Stack**
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+      style="float:right; margin:10px; max-width:200px;" />
+
 
 * 💻 Languages: C, C++, Java, Python, JavaScript
 * 🌐 Web: HTML, CSS, React, Node.js, Express
