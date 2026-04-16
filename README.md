@@ -35,6 +35,8 @@
 🚀 *Full-Stack Developer | AI/ML Enthusiast | Future SDE*  
 💡 Passionate about building scalable, user-centric, and real-world impactful solutions  
 
+<br clear="right"/>
+
 ---
 
 ## 💼 Experience
@@ -43,6 +45,8 @@
 
 - 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)  
 - 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
+
+<br clear="right"/>
 
 ---
 
@@ -55,6 +59,8 @@
 - 🗄️ Databases: MySQL, MongoDB, Oracle  
 - ⚙️ Tools: Git, GitHub, Docker, Postman  
 - ☁️ Cloud: AWS, Firebase, Vercel  
+
+<br clear="right"/>
 
 ---
 
