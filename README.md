@@ -43,7 +43,6 @@
 
 * 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)
 * 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
-* 🌐 Web Development Intern @ IIT Bombay Techfest
 
 ---
 
