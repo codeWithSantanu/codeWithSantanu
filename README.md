@@ -34,7 +34,6 @@
 🎓 *Diploma in CST @ RRK Government Polytechnic*  
 🚀 *Full-Stack Developer | AI/ML Enthusiast | Future SDE*  
 💡 Passionate about building scalable, user-centric, and real-world impactful solutions  
-
 <br clear="right"/>
 
 ---
