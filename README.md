@@ -40,7 +40,7 @@
 💼 **Experience**
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-     style="float:right; margin:10px; max-width:200px;" />
+     style="float:right; margin:10px; max-width:150px;" />
 
 * 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)
 * 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
@@ -49,7 +49,7 @@
 
 🛠️ **Tech Stack**
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-      style="float:right; margin:10px; max-width:180px;" />
+      style="float:right; margin:10px; max-width:150px;" />
 
 
 * 💻 Languages: C, C++, Java, Python, JavaScript
