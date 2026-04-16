@@ -40,7 +40,7 @@
 💼 **Experience**
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-     style="float:right; margin:10px; max-width:220px; height:auto; border-radius:8px;" />
+     style="float:right; margin:10px; max-width:200px;" />
 
 * 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)
 * 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
