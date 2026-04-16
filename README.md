@@ -3,13 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:0f2027&height=280&section=header&text=Santanu%20Das&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<!-- ✨ TIMES NEW ROMAN NAME -->
-<p align="center">
-<span style="font-family:'Times New Roman', serif; font-size:26px;">
-Santanu Das
-</span>
-</p>
-
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+Problem+Solver;🔥+System+Design+Learner;💡+Building+Real+World+Products"/>
