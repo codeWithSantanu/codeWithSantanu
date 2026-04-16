@@ -1,6 +1,6 @@
 <!-- 🌊 TOP WAVING HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:0f2027&height280&section=header&text=Santanu%20Das&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:0f2027&height280&section=header&text=Santanu%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <!-- ⚡ TYPING ANIMATION -->
