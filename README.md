@@ -59,11 +59,9 @@
 
 📈 **Achievements & Presence**
 
-* 🏆 IIT Bombay Web Dev Internship
-* 🏆 IBM Granite AI + AI Odyssey
-* 🏆 RTCI 2025
-* 🔗 6K+ LinkedIn Network
-* 📱 300K+ Instagram Reach
+* 🏆 IIT Bombay Web Dev Intern | IBM AI Workshop | RTCI 2025  
+* 💻 Industrial Intern @ ARDENT | Crack The Code Participant  
+* 🌐 6K+ LinkedIn | 7K+ Instagram | 300K+ Reach 
 
 ---
 
