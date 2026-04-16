@@ -44,7 +44,6 @@
 
 - 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)  
 - 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
-
 <br clear="right"/>
 
 ---
@@ -57,10 +56,9 @@
 - 🌐 Web: HTML, CSS, React, Node.js, Express  
 - 🗄️ Databases: MySQL, MongoDB, Oracle  
 - ⚙️ Tools: Git, GitHub, Docker, Postman  
-- ☁️ Cloud: AWS, Firebase, Vercel  
-
+- ☁️ Cloud: AWS, Firebase, Vercel
+  
 <br clear="right"/>
-
 
 ---
 
