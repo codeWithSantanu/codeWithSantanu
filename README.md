@@ -28,7 +28,7 @@
 
 # 💫 About Me
 
-<img align="right" height="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 *B.Tech IT (CSE) @ Haldia Institute of Technology*  
 🎓 *Diploma in CST @ RRK Government Polytechnic*  
@@ -41,7 +41,7 @@
 
 ## 💼 Experience
 
-<img align="right" height="130" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" height="100" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)  
 - 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
@@ -52,7 +52,7 @@
 
 ## 🛠️ Tech Stack
 
-<img align="right" height="160" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="100" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 - 💻 Languages: C, C++, Java, Python, JavaScript  
 - 🌐 Web: HTML, CSS, React, Node.js, Express  
