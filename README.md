@@ -37,26 +37,24 @@
 
 ---
 
-💼 **Experience**
+## 💼 Experience
 
 <img align="right" height="110" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-* 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)
-* 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
+- 🔧 Junior Engineer @ CEAT Ltd. (1 Year Industrial Experience)  
+- 📊 Sales Executive @ Tiens Group (2 Years – Communication & Leadership)
 
 ---
 
-🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-<div align="right">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150"/>
-</div>
+<img align="right" height="110" src="https://media.giphy.com/media/f3iWJfOV0Wuy7K6FFw/giphy.gif"/>
 
-* 💻 Languages: C, C++, Java, Python, JavaScript
-* 🌐 Web: HTML, CSS, React, Node.js, Express
-* 🗄️ Databases: MySQL, MongoDB, Oracle
-* ⚙️ Tools: Git, GitHub, Docker, Postman
-* ☁️ Cloud: AWS, Firebase, Vercel
+- 💻 Languages: C, C++, Java, Python, JavaScript  
+- 🌐 Web: HTML, CSS, React, Node.js, Express  
+- 🗄️ Databases: MySQL, MongoDB, Oracle  
+- ⚙️ Tools: Git, GitHub, Docker, Postman  
+- ☁️ Cloud: AWS, Firebase, Vercel  
 
 ---
 
