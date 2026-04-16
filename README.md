@@ -49,7 +49,7 @@
 
 🛠️ **Tech Stack**
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-      style="float:right; margin:30px; max-width:150px;" />
+      style="float:right; margin:5px; max-width:150px;" />
 
 
 * 💻 Languages: C, C++, Java, Python, JavaScript
