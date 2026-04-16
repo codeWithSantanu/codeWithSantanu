@@ -1,11 +1,11 @@
 <!-- 🌊 TOP WAVING HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:0f2027&height280&section=header&text=Santanu%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:0f2027&height=280&section=header&text=Santanu%20Das&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+Problem+Solver;🔥+System+Design+Learner;💡+Building+Real+World+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+Problem+Solver;🔥+System+Design+Learner;💡+Building+Real+World+Products"/>
 </p>
 
 <!-- 🧠 PROFILE BADGES -->
@@ -29,12 +29,12 @@
 
 # 💫 About Me
 
-<img align="right" height="80" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="70" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 *B.Tech IT (CSE) @ Haldia Institute of Technology*
-🎓 *Diploma in CST @ RRK Government Polytechnic*
-🚀 *Full-Stack Developer | AI/ML Enthusiast | Future SDE*
-💡 Passionate about building scalable, user-centric, and real-world impactful solutions
+🎓 *B.Tech IT (CSE) @ Haldia Institute of Technology*  
+🎓 *Diploma in CST @ RRK Government Polytechnic*  
+🚀 *Full-Stack Developer | AI/ML Enthusiast | Future SDE*  
+💡 Passionate about building scalable, user-centric, and real-world impactful solutions  
 
 ---
 
@@ -89,17 +89,16 @@
 # ⚡ Dev Vibes (Animated)
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240"/>
 </p>
 
 ---
 
 # 🏗️ INTERACTIVE PROJECT ZONE
 
-<!-- 💡 HOVER EFFECT SIMULATION -->
 <p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -107,7 +106,6 @@
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=codeWithSantanu&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -124,7 +122,7 @@
 # 🎯 FINAL MESSAGE
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Code.+Build.+Scale.+Repeat.;From+India+to+Global+Tech+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Code.+Build.+Scale.+Repeat.;From+India+to+Global+Tech+🚀"/>
 </p>
 
 ---
@@ -139,5 +137,5 @@
 
 <!-- 🌊 FOOTER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=140&section=footer"/>
 </p>
