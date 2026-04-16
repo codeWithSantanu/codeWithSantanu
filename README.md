@@ -96,15 +96,6 @@
 
 ---
 
-# ⚡ Dev Vibes (Animated)
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240"/>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240"/>
-</p>
-
----
-
 # 🏗️ INTERACTIVE PROJECT ZONE
 
 <p align="center">
