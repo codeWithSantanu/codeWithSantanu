@@ -5,7 +5,7 @@
 
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+Problem+Solver;🔥+System+Design+Learner;💡+Building+Real+World+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;🤖+AI%2FML+Engineer;⚡+Problem+Solver;🔥+System+Design+Learner;💡+Building+Real+World+Products"/>
 </p>
 
 <!-- 🧠 PROFILE BADGES -->
