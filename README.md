@@ -1,6 +1,5 @@
-<!-- 🌊 TOP WAVING HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:0f2027&height=230&section=header&text=Santanu%20Das&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:0f2027&height=280&section=header&text=𝗦𝗮𝗻𝘁𝗮𝗻𝘂%20𝗗𝗮𝘀&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer&descAlignY=60&descSize=14"/>
 </p>
 
 <!-- ⚡ TYPING ANIMATION -->
