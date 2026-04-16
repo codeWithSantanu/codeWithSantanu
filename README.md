@@ -52,7 +52,7 @@
 
 ## 🛠️ Tech Stack
 
-[<img align="right" height="110" src="https://media.giphy.com/media/f3iWJfOV0Wuy7K6FFw/giphy.gif"/>](https://media.giphy.com/media/f3iWJfOV0Wuy7K6FFw/giphy.gif)
+<img align="right" height="110" src="https://media.giphy.com/media/f3iWJfOV0Wuy7K6FFw/giphy.gif"/>
 
 - 💻 Languages: C, C++, Java, Python, JavaScript  
 - 🌐 Web: HTML, CSS, React, Node.js, Express  
@@ -61,6 +61,8 @@
 - ☁️ Cloud: AWS, Firebase, Vercel  
 
 <br clear="right"/>
+
+---
 
 ---
 
